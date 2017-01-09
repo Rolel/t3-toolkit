@@ -1,4 +1,4 @@
 ################
 #### HELPER ####
 ################
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:smile_t3_base/Configuration/TypoScript/Helper/GetContent.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:smile_t3_toolkit/Configuration/TypoScript/Helper/GetContent.ts">
